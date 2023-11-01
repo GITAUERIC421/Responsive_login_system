@@ -9,7 +9,7 @@
 </head>
 <style>
      .logout-form button {
-            background-color: #4caf50;
+        background-color: #1256ea;
             color: #fff;
             padding: 10px 15px;
             border: none;
@@ -18,7 +18,10 @@
         }
 
         .logout-form button:hover {
-            background-color: #45a049;
+            background-color: #5894ef;
+        }
+        body{
+            background-image: url(image/images.jpeg);
         }
 </style>
 <body>

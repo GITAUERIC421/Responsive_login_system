@@ -9,7 +9,7 @@
 <style>
             body {
             font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
+            background-image: url(image/images.jpeg);
             margin: 0;
             display: flex;
             align-items: center;
@@ -25,7 +25,7 @@
             box-sizing: border-box;
         }
         .login-container {
-            background-color: #31ce99;
+            background-color: #red;
             box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
             padding: 20px;
             border-radius: 8px;

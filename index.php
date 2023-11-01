@@ -7,7 +7,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
+            background-image: url(image/index.jpeg);
             margin: 0;
             display: flex;
             align-items: center;
@@ -16,7 +16,7 @@
         }
 
         .login-container {
-            background-color: brown;
+            background-color: #4085f3;
             box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
             padding: 20px;
             border-radius: 8px;
@@ -39,7 +39,7 @@
         }
 
         .login-form button {
-            background-color: #4caf50;
+            background-color: #1256ea;
             color: #fff;
             padding: 10px 15px;
             border: none;
@@ -48,7 +48,7 @@
         }
 
         .login-form button:hover {
-            background-color: #45a049;
+            background-color: #5894ef;
         }
     </style>
 </head>
